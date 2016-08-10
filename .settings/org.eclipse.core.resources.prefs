@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//01-bathy/bathy/01_coastal_grid_02.py=utf-8
+encoding//01-bathy/prior/01-nc_2prior.py=utf-8
+encoding//04-assimilation/01-utils/01-generate-data-tide-ana/01-tidal_analysis.py=utf-8
